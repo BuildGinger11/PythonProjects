@@ -2,7 +2,7 @@
 noun1 = input("Choose a noun: ")
 
 pluralNoun = input("Choose a plural noun: ")
-
+ 
 adjictive = input("Choose an adjictive: ")
 
 noun2 = input("Choose a noun: ")
